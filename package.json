@@ -1,0 +1,10 @@
+{
+    "name": "node-api",
+    "main": "server.js",
+    "dependencies": {
+	"pg":"*",
+        "express": "~4.0.0",
+        "body-parser": "~1.0.1"
+    }
+}
+
